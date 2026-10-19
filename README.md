@@ -16,11 +16,11 @@ The system is a research prototype rather than a production email security gatew
 
 **English demonstration**
 
-[Watch the English demo](assets/videos/Email_Security_Triage_Demo_EN_LoRA.mp4)
+https://github.com/user-attachments/assets/7020a67c-cfe2-4055-a232-8b214c5936bd
 
 **Ελληνική παρουσίαση**
 
-[Παρακολούθηση ελληνικού demo](assets/videos/Email_Security_Triage_Demo_GR_LoRA.mp4)
+https://github.com/user-attachments/assets/ce301cd5-bf82-4ae2-a956-fe36f642b470
 
 Both videos demonstrate the research system. The application source code is not included.
 
