@@ -1,0 +1,40 @@
+# Private environments
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Mailbox and credential material
+*.eml
+*.mbox
+*.pst
+*.ost
+*.pem
+*.key
+*.p12
+*.pfx
+*token*.json
+*credentials*.json
+
+# Private model artifacts
+*.gguf
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+
+# Private experiment artifacts
+results/
+outputs/
+logs/
+datasets/
+models/
+checkpoints/
+
+# Local files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
